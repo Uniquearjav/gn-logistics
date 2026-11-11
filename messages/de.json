@@ -1,0 +1,365 @@
+{
+  "common": {
+    "siteName": "German Naval Logistics",
+    "tagline": "Präzisionslogistik und technische Schiffsersatzteile für Reedereien und Flottenbetreiber weltweit.",
+    "requestQuote": "Angebot anfragen",
+    "ourServices": "Unsere Leistungen",
+    "learnMore": "Mehr erfahren",
+    "contactUs": "Kontakt aufnehmen",
+    "skipToContent": "Zum Hauptinhalt springen",
+    "language": "Sprache",
+    "rightsReserved": "Alle Rechte vorbehalten.",
+    "placeholderImageAlt": "Platzhalter für maritimes Bildmaterial (Schiffskomponenten / Hafenlogistik)",
+    "todoNotice": "TODO: Vor dem Produktivstart durch finale Kundendaten und Bildmaterial ersetzen.",
+    "notFound": {
+      "title": "Seite nicht gefunden",
+      "description": "Die von Ihnen gesuchte Seite existiert leider nicht oder wurde verschoben.",
+      "backHome": "Zur Startseite zurückkehren"
+    }
+  },
+  "nav": {
+    "home": "Startseite",
+    "about": "Über uns",
+    "services": "Leistungen",
+    "contact": "Kontakt",
+    "impressum": "Impressum",
+    "openMenu": "Menü öffnen",
+    "closeMenu": "Menü schließen"
+  },
+  "hero": {
+    "eyebrow": "Technische Schiffsersatzteile",
+    "title": "Ersatzteile, die Flotten verlässlich in Bewegung halten.",
+    "description": "Wir versorgen Reedereien und Flottenmanager weltweit mit kritischen Schiffsersatzteilen – von Hauptmaschinen bis zu Hilfsaggregaten. Präzise beschafft, qualitätsgeprüft und termingerecht an jeden Hafen geliefert.",
+    "primaryCta": "Angebot anfragen",
+    "secondaryCta": "Leistungsspektrum",
+    "imageAlt": "Containerfrachter und maritime Maschinenkomponenten im Hafen"
+  },
+  "trust": {
+    "item1": {
+      "metric": "Weltweit",
+      "label": "Direktbelieferung aller Haupthäfen und Werften"
+    },
+    "item2": {
+      "metric": "24/7",
+      "label": "Technische Notfallbeschaffung bei Stillstand (AOG)"
+    },
+    "item3": {
+      "metric": "Zertifiziert",
+      "label": "OEM-Standards und lückenlose Chargenrückverfolgbarkeit"
+    },
+    "item4": {
+      "metric": "Präzise",
+      "label": "Verlässliche Zolldokumentation und zügige Abfertigung"
+    }
+  },
+  "whatWeDo": {
+    "eyebrow": "Unser Auftrag",
+    "heading": "Zuverlässige Versorgung für anspruchsvolle Flottenoperationen.",
+    "description": "Auf hoher See bedeuten ungeplante Ausfallzeiten erhebliche finanzielle Einbußen. German Naval Logistics verbindet technisches Marine-Know-how mit einem belastbaren globalen Lieferantennetzwerk. Wir beschaffen Originalteile und zertifizierte Ersatzkomponenten mit dem Anspruch kompromissloser Präzision.",
+    "cta": "Mehr über unser Leistungsspektrum erfahren"
+  },
+  "servicesPreview": {
+    "eyebrow": "Kernkompetenzen",
+    "heading": "Gezielte Lösungen für die maritime Industrie.",
+    "description": "Von Einzellieferungen bis hin zu flottenweiten Rahmenvereinbarungen decken wir den gesamten technischen Beschaffungszyklus ab.",
+    "items": [
+      {
+        "title": "Schiffsersatzteil-Versorgung",
+        "description": "Umfassende Belieferung mit Komponenten für Haupt- und Hilfsdiesel, Pumpen, Separatoren, Elektrik und Hydrauliksysteme.",
+        "link": "Details zur Ersatzteilversorgung"
+      },
+      {
+        "title": "Schnellbeschaffung & Sonderteile",
+        "description": "Weltweite Recherche und zügige Beschaffung schwer erhältlicher Original- und OEM-Bauteile für ältere und spezialisierte Schiffstypen.",
+        "link": "Details zur Beschaffung"
+      },
+      {
+        "title": "Globale Hafen- & Bordlogistik",
+        "description": "Punktgenaue Zustellung direkt an die Gangway oder Werft inklusive Zollabwicklung, Zwischenlagerung und Gefahrguttransport.",
+        "link": "Details zur Hafenlogistik"
+      }
+    ]
+  },
+  "whyUs": {
+    "eyebrow": "Warum German Naval Logistics",
+    "heading": "Geprüfte Qualität. Verlässliche Partnerschaft.",
+    "points": [
+      {
+        "number": "01",
+        "title": "Ingenieurtechnische Kompetenz",
+        "description": "Unser Team versteht technische Spezifikationen, Zeichnungen und Bauteilanforderungen exakt. Falschlieferungen werden durch systematische Plausibilitätsprüfungen vor dem Versand konsequent vermieden."
+      },
+      {
+        "number": "02",
+        "title": "Unabhängiges Lieferantennetzwerk",
+        "description": "Dank unserer etablierten Beziehungen zu führenden europäischen und asiatischen Herstellern sichern wir Verfügbarkeiten auch dann, wenn herkömmliche Lieferketten an ihre Grenzen stoßen."
+      },
+      {
+        "number": "03",
+        "title": "Termintreue & Transparenz",
+        "description": "Jeder Auftrag wird mit durchgängiger Sendungsverfolgung und lückenloser Zertifikatsdokumentation begleitet. Sie behalten zu jedem Zeitpunkt volle Kontrolle über Ihre Liefertermine."
+      }
+    ]
+  },
+  "process": {
+    "eyebrow": "Ablauf",
+    "heading": "Vom Bedarf bis zur Bordübergabe.",
+    "description": "Ein klar definierter, auditierbarer Prozess für maximale Ausfallsicherheit.",
+    "steps": [
+      {
+        "number": "01",
+        "title": "Anfrage & Analyse",
+        "description": "Prüfung Ihrer Bauteilliste, Maschinennummer und IMO-Angaben auf Spezifikationskonformität."
+      },
+      {
+        "number": "02",
+        "title": "Sourcing & Angebot",
+        "description": "Gezielte Beschaffung über geprüfte OEM- und Herstellerkanäle mit transparenten Konditionen."
+      },
+      {
+        "number": "03",
+        "title": "Qualitätskontrolle",
+        "description": "Eingangsprüfung, Dokumentation und Bereitstellung sämtlicher geforderter Klassenzertifikate."
+      },
+      {
+        "number": "04",
+        "title": "Zustellung an Bord",
+        "description": "Koordination mit Hafenagenten und zügige Übergabe direkt an das Schiff im Zielhafen."
+      }
+    ]
+  },
+  "ctaBand": {
+    "heading": "Planen Sie Ihre nächste Ersatzteillieferung mit uns.",
+    "description": "Senden Sie uns Ihre Bauteilliste oder sprechen Sie direkt mit unseren technischen Beschaffungsspezialisten.",
+    "button": "Anfrage starten",
+    "emailLabel": "Oder schreiben Sie uns direkt an:"
+  },
+  "contact": {
+    "eyebrow": "Kontakt & Anfragen",
+    "heading": "Sprechen Sie mit unserem Technischen Vertrieb.",
+    "description": "Ganz gleich, ob geplante Dockung oder dringender Ersatzteilbedarf auf See: Unser Team bearbeitet Ihre Anfrage unverzüglich.",
+    "detailsTitle": "Standort & Erreichbarkeit",
+    "addressTitle": "Büro Essen",
+    "hoursTitle": "Geschäftszeiten",
+    "phoneTitle": "Telefonische Direktdurchwahl",
+    "emergencyTitle": "24/7 Notfall-Hotline",
+    "emergencyBadge": "Nur für Schiffsstillstand / AOG",
+    "form": {
+      "nameLabel": "Vollständiger Name",
+      "namePlaceholder": "z. B. Kapitän Thomas Meyer",
+      "companyLabel": "Unternehmen / Reederei",
+      "companyPlaceholder": "z. B. Hansa Shipping GmbH",
+      "emailLabel": "Geschäftliche E-Mail-Adresse",
+      "emailPlaceholder": "info@gn-logistics.de",
+      "vesselLabel": "Schiffsname / IMO-Nummer (optional)",
+      "vesselPlaceholder": "z. B. MV Nordstjernen / IMO 9876543",
+      "messageLabel": "Benötigte Komponenten oder Nachricht",
+      "messagePlaceholder": "Bitte geben Sie Bauteilnummern, Hersteller, Maschinentyp und gewünschten Zielhafen an...",
+      "consentLabel": "Ich stimme zu, dass meine Angaben zur Bearbeitung meiner Anfrage und Kontaktaufnahme verarbeitet werden.",
+      "submitButton": "Anfrage absenden",
+      "submittingButton": "Wird übermittelt...",
+      "successTitle": "Anfrage erfolgreich übermittelt",
+      "successMessage": "Vielen Dank. Ein technischer Sachbearbeiter wird Ihre Anfrage prüfen und sich in Kürze mit einem qualifizierten Angebot bei Ihnen melden.",
+      "errors": {
+        "nameRequired": "Bitte geben Sie Ihren vollständigen Namen an.",
+        "companyRequired": "Bitte geben Sie den Namen Ihres Unternehmens an.",
+        "emailInvalid": "Bitte geben Sie eine gültige geschäftliche E-Mail-Adresse an.",
+        "messageRequired": "Bitte beschreiben Sie Ihren Bauteilbedarf (mindestens 10 Zeichen).",
+        "consentRequired": "Die Zustimmung zur Datenverarbeitung ist für die Bearbeitung erforderlich.",
+        "serverError": "Bei der Übermittlung ist ein Fehler aufgetreten. Bitte versuchen Sie es erneut oder kontaktieren Sie uns direkt per E-Mail."
+      }
+    }
+  },
+  "about": {
+    "eyebrow": "Über das Unternehmen",
+    "heading": "Präzision im Dienst der internationalen Seefahrt.",
+    "intro": "German Naval Logistics wurde gegründet, um Reedereien und Flottenbetreibern einen verlässlichen, technisch fundierten Beschaffungspartner an die Seite zu stellen.",
+    "story": {
+      "heading": "Unsere Haltung",
+      "paragraph1": "Die moderne Handelsschifffahrt operiert unter extremem Zeit- und Kostendruck. Jeder Hafentag ist minutengenau getaktet, und unvorhergesehene Maschinenausfälle bringen globale Logistikketten ins Wanken. Aus dieser Realität heraus haben wir German Naval Logistics aufgebaut.",
+      "paragraph2": "Wir verstehen uns nicht als reiner Zwischenhändler, sondern als technischer Lösungsfinder. Mit Sitz in Hamburg und einem internationalen Netzwerk aus Herstellern, Lagerstandorten und Logistikpartnern stellen wir sicher, dass das richtige Bauteil im richtigen Zustand zur richtigen Zeit an Bord gelangt."
+    },
+    "values": {
+      "heading": "Grundsätze unseres Handelns",
+      "items": [
+        {
+          "title": "Kompromisslose Passgenauigkeit",
+          "description": "Wir prüfen Teilenummern und Spezifikationen mehrstufig, bevor Ware auf den Weg gebracht wird. Prävention von Fehlern steht über Schnelligkeit um jeden Preis."
+        },
+        {
+          "title": "Verlässliche Verbindlichkeit",
+          "description": "Wir geben nur Zusagen, die wir einhalten können. Transparente Kommunikation über Lieferfristen und Bestände ist die Basis langfristigen Vertrauens."
+        },
+        {
+          "title": "Strikte Qualitätssicherung",
+          "description": "Alle Teile stammen aus geprüften Quellen und werden mit den erforderlichen Werks- und Klassenzertifikaten geliefert."
+        }
+      ]
+    },
+    "approach": {
+      "heading": "Unser Ansatz",
+      "description": "Wir verbinden traditionelle hanseatische Zuverlässigkeit mit moderner, digital unterstützter Bestands- und Logistiksteuerung. Unsere Kunden schätzen den direkten Draht zu technischen Experten, die maritime Terminologie sprechen und die Dringlichkeit an Bord verstehen."
+    },
+    "location": {
+      "heading": "Standort & Logistikhub",
+      "description": "Von unserem Standort in Essen aus koordinieren wir Transporte zu den europäischen Überseehäfen (Rotterdam, Antwerpen, Hamburg, Bremerhaven) sowie weltweite Luft- und Seefrachten zu allen wesentlichen maritimen Knotenpunkten.",
+      "hubTitle": "Unternehmenssitz Essen",
+      "address": "Spiekbank 50, D-45259 Essen, Deutschland",
+      "mapAlt": "Übersichtskarte des Logistikstandorts Essen"
+    }
+  },
+  "services": {
+    "eyebrow": "Unser Leistungsspektrum",
+    "heading": "Ganzheitliche Versorgung mit maritimen Ersatzteilen.",
+    "intro": "Wir unterstützen technische Abteilungen von Reedereien bei der Beschaffung, Qualitätsprüfung und termingerechten Bereitstellung sämtlicher Schiffskomponenten.",
+    "items": [
+      {
+        "id": "spare-parts",
+        "title": "Schiffsersatzteile & Maschinenkomponenten",
+        "description": "Lieferung von Original- und OEM-Ersatzteilen für alle wesentlichen Haupt- und Hilfssysteme an Bord.",
+        "bullets": [
+          "Haupt- und Hilfsdieselkomponenten (Kolben, Buchsen, Ventile, Einspritztechnik)",
+          "Pumpen, Verdichter und Separatoren für Schmieröl, Kraftstoff und Ballastwasser",
+          "Decksausrüstung, Ankerwinden und Kransysteme",
+          "Hydraulikaggregate, Zylinder und Hochdruckschläuche",
+          "Filterelemente, Dichtungssätze und standardisierte Verschleißteile"
+        ]
+      },
+      {
+        "id": "rapid-sourcing",
+        "title": "Schnellbeschaffung & Schwer Beschaffbare Teile",
+        "description": "Spezialisierte Recherche nach abgekündigten, älteren oder seltenen Bauteilen mit weltweitem Herstellerzugriff.",
+        "bullets": [
+          "Recherche in internationalen Alt- und Überhangbeständen",
+          "Alternative Identifikation kompatibler, klassifizierter OEM-Nachfolgetypen",
+          "Kurzfristige Sonderanfertigungen nach Zeichnung und Muster",
+          "Beschleunigter Einkauf bei Erstausrüstern mit minimalen Durchlaufzeiten"
+        ]
+      },
+      {
+        "id": "port-delivery",
+        "title": "Globale Hafen- & Bordzustellung",
+        "description": "Präzise getaktete Logistik direkt an die Bordwand des Schiffes in weltweiten Häfen.",
+        "bullets": [
+          "Koordination mit Hafenagenten, Terminalbetreibern und Behörden",
+          "Konsolidierung von Teillieferungen in zollfreien Lagern",
+          "Umfassende Zollabfertigung (Transitabfertigung, Schiffsbedarf, T1)",
+          "Zertifizierter Transport von Gefahrgut und temperatursensiblen Komponenten"
+        ]
+      },
+      {
+        "id": "quality-assurance",
+        "title": "Qualitätssicherung & Klassenzertifikate",
+        "description": "Lückenlose Dokumentation und Qualitätsprüfung vor jedem Transport.",
+        "bullets": [
+          "Prüfung nach Klassifikationsgesellschaften (DNV, Lloyd's Register, Bureau Veritas, ABS)",
+          "Bereitstellung von Werkszeugnissen nach EN 10204 / 3.1 und 3.2",
+          "Sicht- und Maßkontrollen im Wareneingang mit Fotodokumentation",
+          "Lückenlose Chargenrückverfolgbarkeit für sicherheitsrelevante Bauteile"
+        ]
+      },
+      {
+        "id": "fleet-agreements",
+        "title": "Flottenvereinbarungen & Rahmenverträge",
+        "description": "Strukturierte Rahmenverträge für Reedereien zur Kostenoptimierung und Versorgungssicherheit.",
+        "bullets": [
+          "Feste Konditionen und garantierte Vorhaltezeiten für kritische Flottenersatzteile",
+          "Dedizierter technischer Ansprechpartner für Ihre gesamte Flotte",
+          "Verbrauchsanalysen und Empfehlungen für Bordlager-Mindestbestände",
+          "Priorisierte Auftragsbearbeitung im 24/7 Notfalldienst"
+        ]
+      },
+      {
+        "id": "emergency-support",
+        "title": "24/7 Notfallbeschaffung bei Stillstand (AOG)",
+        "description": "Schnelle Notfallhilfe bei unvorhergesehenen Havarien oder Ausfällen, um Liegezeiten zu minimieren.",
+        "bullets": [
+          "Rund um die Uhr besetzte Notfall-Eskalationslinie",
+          "Sofortige Einleitung von On-Board-Kurierdiensten (OBC) oder Express-Luftfrachten",
+          "Express-Zollabfertigung für zeitkritische Schiffsausrüstung",
+          "Echtzeit-Tracking bis zur physischen Übergabe an den Leitenden Ingenieur"
+        ]
+      }
+    ],
+    "faq": {
+      "eyebrow": "Häufige Fragen",
+      "heading": "Antworten zu Beschaffung und Logistik.",
+      "items": [
+        {
+          "question": "Wie gestalten sich typische Lieferzeiten für maritime Ersatzteile?",
+          "answer": "Lieferzeiten richten sich nach Bauteilart und Verfügbarkeit. Gängige Verschleißteile und standardisierte Komponenten aus europäischen Lagern können bei Dringlichkeit innerhalb von 24 bis 48 Stunden an zentrale europäische Häfen geliefert werden. Bei spezifischen OEM-Großbauteilen oder Nachfertigungen teilen wir Ihnen nach Verfügbarkeitsprüfung verlässliche Zieltermine mit."
+        },
+        {
+          "question": "Liefern Sie ausschließlich Originalteile (OEM) oder auch Aftermarket-Komponenten?",
+          "answer": "Wir richten uns nach den Vorgaben der Reederei. Grundsätzlich bieten wir primär Originalbauteile der Erstausrüster an. Auf Wunsch des Kunden prüfen und liefern wir auch hochwertige, zertifizierte Ersatzkomponenten geprüfter europäischer Hersteller – stets mit transparenter Deklaration von Herkunft und Spezifikation."
+        },
+        {
+          "question": "Welche Klassifikationszertifikate können Sie für gelieferte Teile bereitstellen?",
+          "answer": "Je nach Bauteil und Erfordernis liefern wir Komponenten mit Zertifikaten der führenden IACS-Klassifikationsgesellschaften, darunter DNV, Lloyd's Register, Bureau Veritas und American Bureau of Shipping (ABS), sowie Werkszeugnissen nach EN 10204 3.1 oder 3.2."
+        },
+        {
+          "question": "Wie läuft die Bestellung und die Koordination im Zielhafen ab?",
+          "answer": "Nach Freigabe des Angebots stimmen wir uns direkt mit dem von Ihnen benannten Hafenagenten ab. Wir übernehmen die Zollabfertigung, überwachen das ETA des Schiffes und stellen sicher, dass die Lieferung pünktlich vor Auslaufen an die Gangway übergeben wird."
+        },
+        {
+          "question": "In welchen weltweiten Regionen und Häfen können Sie liefern?",
+          "answer": "Unser Kernlogistiknetzwerk deckt sämtliche europäischen Seehäfen nahtlos ab. Darüber hinaus koordinieren wir weltweite Luft- und Seefrachten zu allen wesentlichen maritimen Knotenpunkten in Asien, dem Nahen Osten sowie Nord- und Südamerika."
+        }
+      ]
+    }
+  },
+  "impressum": {
+    "eyebrow": "Rechtliche Hinweise",
+    "heading": "Impressum",
+    "notice": "Rechtlicher Hinweis: Die nachstehenden Angaben enthalten Platzhalter in eckigen Klammern [ ]. Diese müssen vor dem offiziellen Produktivstart durch die realen Unternehmensdaten ersetzt und durch einen qualifizierten Rechtsanwalt geprüft werden.",
+    "sec1": {
+      "title": "Angaben gemäß § 5 DDG (Digitale-Dienste-Gesetz)",
+      "company": "German Naval Logistics UG (haftungsbeschränkt)",
+      "address": "Spiekbank 50, D-45259 Essen, Deutschland",
+      "representedBy": "Vertreten durch die Geschäftsführung:\nGeschäftsführer: [Vorname Nachname, Platzhalter]"
+    },
+    "sec2": {
+      "title": "Kontakt",
+      "phone": "Telefon: +49 201 24 88 90 41",
+      "email": "E-Mail: info@gn-logistics.de",
+      "web": "Website: www.gn-logistics.de"
+    },
+    "sec3": {
+      "title": "Registereintrag",
+      "text": "Eintragung im Handelsregister.\nRegistergericht: Amtsgericht Essen\nRegisternummer: HRB [000000, Platzhalter]"
+    },
+    "sec4": {
+      "title": "Umsatzsteuer-Identifikationsnummer",
+      "text": "Umsatzsteuer-Identifikationsnummer gemäß § 27a Umsatzsteuergesetz:\n[DE 000 000 000, Platzhalter]"
+    },
+    "sec5": {
+      "title": "Verantwortlich für den Inhalt nach § 18 Abs. 2 MStV",
+      "text": "[Vorname Nachname, Spiekbank 50, D-45259 Essen, Deutschland, Platzhalter]"
+    },
+    "sec6": {
+      "title": "EU-Streitschlichtung & Verbraucherschlichtung",
+      "text": "Die Europäische Kommission stellt eine Plattform zur Online-Streitbeilegung (OS) bereit: https://ec.europa.eu/consumers/odr/.\nUnsere E-Mail-Adresse finden Sie oben im Impressum.\n\nWir sind nicht bereit oder verpflichtet, an Streitbeilegungsverfahren vor einer Verbraucherschlichtungsstelle teilzunehmen."
+    },
+    "sec7": {
+      "title": "Haftung für Inhalte",
+      "text": "Als Diensteanbieter sind wir gemäß § 7 Abs. 1 DDG für eigene Inhalte auf diesen Seiten nach den allgemeinen Gesetzen verantwortlich. Nach §§ 8 bis 10 DDG sind wir als Diensteanbieter jedoch nicht verpflichtet, übermittelte oder gespeicherte fremde Informationen zu überwachen oder nach Umständen zu forschen, die auf eine rechtswidrige Tätigkeit hinweisen. Verpflichtungen zur Entfernung oder Sperrung der Nutzung von Informationen nach den allgemeinen Gesetzen bleiben hiervon unberührt. Eine diesbezügliche Haftung ist jedoch erst ab dem Zeitpunkt der Kenntnis einer konkreten Rechtsverletzung möglich."
+    },
+    "sec8": {
+      "title": "Haftung für Links",
+      "text": "Unser Angebot enthält Links zu externen Websites Dritter, auf deren Inhalte wir keinen Einfluss haben. Deshalb können wir für diese fremden Inhalte auch keine Gewähr übernehmen. Für die Inhalte der verlinkten Seiten ist stets der jeweilige Anbieter oder Betreiber der Seiten verantwortlich. Die verlinkten Seiten wurden zum Zeitpunkt der Verlinkung auf mögliche Rechtsverstöße überprüft. Rechtswidrige Inhalte waren zum Zeitpunkt der Verlinkung nicht erkennbar."
+    },
+    "sec9": {
+      "title": "Urheberrecht",
+      "text": "Die durch die Seitenbetreiber erstellten Inhalte und Werke auf diesen Seiten unterliegen dem deutschen Urheberrecht. Die Vervielfältigung, Bearbeitung, Verbreitung und jede Art der Verwertung außerhalb der Grenzen des Urheberrechtes bedürfen der schriftlichen Zustimmung des jeweiligen Autors bzw. Erstellers."
+    }
+  },
+  "footer": {
+    "brandDescription": "Spezialisierte Beschaffung und weltweite Zustellung technischer Schiffsersatzteile für Reedereien, Schiffsmanager und Werften.",
+    "colNav": "Navigation",
+    "colLegal": "Rechtliches",
+    "colContact": "Kontakt Essen",
+    "privacyHint": "Diese Website verwendet keine Tracking-Cookies und speichert keine Nutzerprofile ohne ausdrückliche Einwilligung.",
+    "wantWebsite": "Website gewünscht?",
+    "poweredBy": "Powered by Bahar World IT"
+  }
+}

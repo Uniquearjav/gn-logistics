@@ -1,0 +1,365 @@
+{
+  "common": {
+    "siteName": "German Naval Logistics",
+    "tagline": "Precision logistics and marine spare parts for shipping companies and fleet operators worldwide.",
+    "requestQuote": "Request a Quote",
+    "ourServices": "Our Services",
+    "learnMore": "Learn more",
+    "contactUs": "Contact Us",
+    "skipToContent": "Skip to main content",
+    "language": "Language",
+    "rightsReserved": "All rights reserved.",
+    "placeholderImageAlt": "Placeholder for maritime imagery (vessel machinery / port logistics)",
+    "todoNotice": "TODO: Replace placeholders with authentic company data and certified imagery before go-live.",
+    "notFound": {
+      "title": "Page Not Found",
+      "description": "The page you are looking for does not exist or has been moved.",
+      "backHome": "Return to Homepage"
+    }
+  },
+  "nav": {
+    "home": "Home",
+    "about": "About",
+    "services": "Services",
+    "contact": "Contact",
+    "impressum": "Legal Notice",
+    "openMenu": "Open menu",
+    "closeMenu": "Close menu"
+  },
+  "hero": {
+    "eyebrow": "Marine Spare Parts Supply",
+    "title": "Spare parts that keep fleets moving.",
+    "description": "We supply reliable marine spare parts to shipping companies and fleet managers worldwide. Sourced with engineering rigor, inspected for compliance, and delivered on time to any port.",
+    "primaryCta": "Request a Quote",
+    "secondaryCta": "Explore Services",
+    "imageAlt": "Container vessel and marine propulsion machinery in port"
+  },
+  "trust": {
+    "item1": {
+      "metric": "Worldwide",
+      "label": "Direct delivery to all major commercial ports and shipyards"
+    },
+    "item2": {
+      "metric": "24/7",
+      "label": "Rapid response dispatch for critical vessel immobilisation (AOG)"
+    },
+    "item3": {
+      "metric": "Certified",
+      "label": "OEM standards with full batch documentation and class traceability"
+    },
+    "item4": {
+      "metric": "Precise",
+      "label": "Specialized maritime customs clearance and bonded handling"
+    }
+  },
+  "whatWeDo": {
+    "eyebrow": "Our Mission",
+    "heading": "Reliable supply for demanding maritime fleet operations.",
+    "description": "At sea, unplanned downtime carries severe financial consequences. German Naval Logistics connects deep maritime technical expertise with a resilient global supplier network. We procure genuine OEM parts and certified replacements with uncompromising precision.",
+    "cta": "Learn more about our service spectrum"
+  },
+  "servicesPreview": {
+    "eyebrow": "Core Capabilities",
+    "heading": "Targeted solutions for the commercial shipping industry.",
+    "description": "From single urgent replacements to fleet-wide framework agreements, we manage the entire technical procurement cycle.",
+    "items": [
+      {
+        "title": "Marine Spare Parts Supply",
+        "description": "Comprehensive provision of components for main & auxiliary engines, pumps, separators, electrical systems, and hydraulics.",
+        "link": "Details on parts supply"
+      },
+      {
+        "title": "Rapid Sourcing & Obsolete Parts",
+        "description": "Worldwide search and expedited acquisition of rare, discontinued, or OEM parts for specialized and legacy vessel types.",
+        "link": "Details on procurement"
+      },
+      {
+        "title": "Global Port & On-Board Logistics",
+        "description": "Exact-to-schedule delivery directly to the gangway or shipyard, including bonded transit and specialized customs clearance.",
+        "link": "Details on port logistics"
+      }
+    ]
+  },
+  "whyUs": {
+    "eyebrow": "Why German Naval Logistics",
+    "heading": "Verified Quality. Uncompromising Reliability.",
+    "points": [
+      {
+        "number": "01",
+        "title": "Marine Engineering Know-How",
+        "description": "Our team understands technical drawings, classification requirements, and part interchangeability. We run rigorous plausibility checks prior to dispatch to eliminate wrong deliveries."
+      },
+      {
+        "number": "02",
+        "title": "Independent Global Network",
+        "description": "Our direct relationships with premier European and Asian manufacturers ensure component availability even during strained global supply chains."
+      },
+      {
+        "number": "03",
+        "title": "Schedule Discipline & Full Traceability",
+        "description": "Every order is tracked continuously with complete certificates and customs documents. You maintain complete visibility over delivery milestones."
+      }
+    ]
+  },
+  "process": {
+    "eyebrow": "Process",
+    "heading": "From initial inquiry to vessel handover.",
+    "description": "A clear, auditable workflow built for minimal turnaround times and operational certainty.",
+    "steps": [
+      {
+        "number": "01",
+        "title": "Inquiry & Verification",
+        "description": "Detailed cross-check of your parts schedule, engine serial number, and IMO vessel data."
+      },
+      {
+        "number": "02",
+        "title": "Sourcing & Quote",
+        "description": "Procurement across verified OEM channels with transparent pricing and firm lead times."
+      },
+      {
+        "number": "03",
+        "title": "Quality Inspection",
+        "description": "In-house physical inspection, photographic documentation, and class certification compilation."
+      },
+      {
+        "number": "04",
+        "title": "On-Board Handover",
+        "description": "Coordination with port agents for safe delivery straight to the ship's gangway before departure."
+      }
+    ]
+  },
+  "ctaBand": {
+    "heading": "Plan your next marine spare parts delivery with us.",
+    "description": "Send us your equipment schedule or consult directly with our technical maritime procurement desk.",
+    "button": "Submit Inquiry",
+    "emailLabel": "Or reach out directly via email:"
+  },
+  "contact": {
+    "eyebrow": "Contact & Inquiries",
+    "heading": "Speak with our Technical Maritime Desk.",
+    "description": "Whether preparing for scheduled dry dock maintenance or handling an emergency breakdown at sea, our team responds promptly.",
+    "detailsTitle": "Location & Availability",
+    "addressTitle": "Essen Office",
+    "hoursTitle": "Operating Hours",
+    "phoneTitle": "Direct Phone Line",
+    "emergencyTitle": "24/7 Emergency Line",
+    "emergencyBadge": "Vessel immobilisation / AOG only",
+    "form": {
+      "nameLabel": "Full Name",
+      "namePlaceholder": "e.g. Capt. Thomas Meyer",
+      "companyLabel": "Company / Shipping Line",
+      "companyPlaceholder": "e.g. Hansa Shipping GmbH",
+      "emailLabel": "Business Email Address",
+      "emailPlaceholder": "info@gn-logistics.de",
+      "vesselLabel": "Vessel Name / IMO Number (optional)",
+      "vesselPlaceholder": "e.g. MV Nordstjernen / IMO 9876543",
+      "messageLabel": "Required Parts or Inquiry Details",
+      "messagePlaceholder": "Please include part numbers, manufacturer, engine type, and destination port...",
+      "consentLabel": "I consent to the processing of my data for the purpose of answering my inquiry and subsequent contact.",
+      "submitButton": "Send Inquiry",
+      "submittingButton": "Submitting...",
+      "successTitle": "Inquiry successfully submitted",
+      "successMessage": "Thank you. A technical maritime specialist will review your specifications and contact you shortly with a qualified offer.",
+      "errors": {
+        "nameRequired": "Please enter your full name.",
+        "companyRequired": "Please enter your company or shipping line name.",
+        "emailInvalid": "Please enter a valid business email address.",
+        "messageRequired": "Please describe your parts requirement (minimum 10 characters).",
+        "consentRequired": "Consent to data processing is required to proceed.",
+        "serverError": "An unexpected error occurred during submission. Please try again or email us directly."
+      }
+    }
+  },
+  "about": {
+    "eyebrow": "About the Company",
+    "heading": "Engineering precision in service of global maritime trade.",
+    "intro": "German Naval Logistics was founded to provide shipping companies and fleet operators with a dedicated, technically proficient procurement partner.",
+    "story": {
+      "heading": "Our Perspective",
+      "paragraph1": "Commercial shipping operates under extreme schedule and cost pressure. Every port stay is measured in hours, and unexpected machinery failure disrupts complex global logistics chains. German Naval Logistics was built to eliminate this friction.",
+      "paragraph2": "We do not operate as mere brokers; we act as technical problem-solvers. Headquartered in Hamburg with an established network of manufacturers, stocking locations, and forwarders, we ensure that the correct part arrives in exact condition when and where required."
+    },
+    "values": {
+      "heading": "Guiding Principles",
+      "items": [
+        {
+          "title": "Uncompromising Fit & Spec",
+          "description": "We verify part numbers and drawings through multi-tier verification before any component is dispatched. Preventing errors takes precedence over reckless speed."
+        },
+        {
+          "title": "Firm Reliability",
+          "description": "We only commit to timelines we can honor. Honest, transparent communication regarding lead times and inventory is the cornerstone of client trust."
+        },
+        {
+          "title": "Certified Quality Control",
+          "description": "All parts originate from accredited manufacturers and are shipped with factory test certificates and class society documentation."
+        }
+      ]
+    },
+    "approach": {
+      "heading": "Our Approach",
+      "description": "We combine traditional Hanseatic trade dependability with modern, digitized supply chain monitoring. Our clients value speaking directly with technical engineers who know marine machinery intimately and understand the urgent realities of life at sea."
+    },
+    "location": {
+      "heading": "Strategic Logistics Headquarters",
+      "description": "From our base in Essen, we coordinate express road freight to major European ports (Rotterdam, Antwerp, Hamburg, Bremerhaven) and international air/ocean shipments to maritime hubs worldwide.",
+      "hubTitle": "Essen Headquarters",
+      "address": "Spiekbank 50, D-45259 Essen, Germany",
+      "mapAlt": "Overview map of the Essen logistics facility"
+    }
+  },
+  "services": {
+    "eyebrow": "Our Capabilities",
+    "heading": "Comprehensive Marine Spare Parts & Logistics.",
+    "intro": "We support technical superintendents and fleet managers with end-to-end parts procurement, quality certification, and timely on-board delivery.",
+    "items": [
+      {
+        "id": "spare-parts",
+        "title": "Marine Machinery & Engine Spare Parts",
+        "description": "Supply of genuine OEM parts and certified alternatives for all critical shipboard machinery.",
+        "bullets": [
+          "Main and auxiliary diesel engine parts (pistons, cylinder liners, valves, injection equipment)",
+          "Pumps, compressors, and centrifugal separators for lub-oil, fuel, and ballast water",
+          "Deck machinery, windlasses, mooring winches, and cargo crane spares",
+          "Hydraulic power units, actuators, steering gear valves, and high-pressure hoses",
+          "Filtration elements, mechanical seal kits, and standardized consumables"
+        ]
+      },
+      {
+        "id": "rapid-sourcing",
+        "title": "Rapid Sourcing & Hard-to-Find Components",
+        "description": "Specialized sourcing for obsolete, out-of-production, or emergency shipboard components.",
+        "bullets": [
+          "Access to global surplus inventories and certified surplus channels",
+          "Technical evaluation and substitution of obsolete parts with class-approved equivalents",
+          "Fast-track bespoke machining based on original technical drawings or physical samples",
+          "Direct procurement from original equipment makers with minimum turnaround"
+        ]
+      },
+      {
+        "id": "port-delivery",
+        "title": "Global Port & On-Board Delivery",
+        "description": "Synchronized logistics bringing spare parts directly to the ship's gangway worldwide.",
+        "bullets": [
+          "Active coordination with port agents, stevedores, and local harbor authorities",
+          "Consolidation of multi-vendor consignments in bonded warehouses",
+          "Full customs clearance (transit customs, ship stores declarations, T1 documents)",
+          "Certified handling of dangerous goods, batteries, and temperature-sensitive parts"
+        ]
+      },
+      {
+        "id": "quality-assurance",
+        "title": "Quality Assurance & Class Documentation",
+        "description": "Rigorous multi-stage inspection and documentation before any cargo leaves our care.",
+        "bullets": [
+          "Compliance with leading IACS classification societies (DNV, LR, BV, ABS)",
+          "Material test certificates according to EN 10204 / 3.1 and 3.2 standards",
+          "Incoming dimensional and visual verification with photographic evidence",
+          "Complete batch and heat traceability for all safety-critical components"
+        ]
+      },
+      {
+        "id": "fleet-agreements",
+        "title": "Fleet Supply Framework Agreements",
+        "description": "Long-term partnership contracts designed to optimize budgets and ensure stock readiness.",
+        "bullets": [
+          "Fixed pricing agreements and dedicated safety stock reservations for critical parts",
+          "Dedicated technical account superintendent assigned to your fleet",
+          "Vessel consumption auditing and onboard minimum inventory recommendations",
+          "Priority processing in emergency breakdown scenarios"
+        ]
+      },
+      {
+        "id": "emergency-support",
+        "title": "24/7 Emergency Breakdown Dispatch (AOG)",
+        "description": "Immediate intervention when vessels are immobilized, minimizing expensive port layover fees.",
+        "bullets": [
+          "24/7 manned emergency technical operations desk",
+          "Immediate deployment of On-Board Couriers (OBC) and dedicated air charters",
+          "Priority customs fast-tracking for urgent ship spares in transit",
+          "Real-time GPS tracking until confirmed receipt by the Chief Engineer"
+        ]
+      }
+    ],
+    "faq": {
+      "eyebrow": "Frequently Asked Questions",
+      "heading": "Answers regarding procurement and logistics.",
+      "items": [
+        {
+          "question": "What are typical lead times for marine spare parts?",
+          "answer": "Lead times vary by component type and availability. Critical consumables and standard parts held in European warehouses can be delivered within 24 to 48 hours to major European ports. For bespoke OEM parts or specialized castings, we confirm reliable dispatch dates immediately upon inquiry."
+        },
+        {
+          "question": "Do you provide only OEM parts or also certified aftermarket alternatives?",
+          "answer": "We align strictly with the technical requirements of the shipowner. By default, we source original OEM components. Upon request, we also provide vetted, certified alternative parts from reputable European manufacturers, with transparent disclosure of origin and specification."
+        },
+        {
+          "question": "Which classification certificates can you supply with the parts?",
+          "answer": "Depending on part classification requirements, we supply components certified by major IACS classification societies, including DNV, Lloyd's Register, Bureau Veritas, and ABS, along with EN 10204 3.1 or 3.2 inspection certificates."
+        },
+        {
+          "question": "How is order coordination handled at the destination port?",
+          "answer": "Once an order is approved, our operations desk liaises directly with your nominated local ship agent. We handle customs declarations, track the vessel's ETA, and ensure hand-over at the gangway prior to sailing."
+        },
+        {
+          "question": "Which global ports and geographic regions do you cover?",
+          "answer": "Our core ground network seamlessly serves all European seaports. In addition, we coordinate international air and ocean cargo to all major maritime hubs across Asia, the Americas, and the Middle East."
+        }
+      ]
+    }
+  },
+  "impressum": {
+    "eyebrow": "Legal Notice",
+    "heading": "Impressum (Legal Notice)",
+    "notice": "Legal Disclaimer: The following information contains placeholders in brackets [ ]. These must be replaced with verified corporate information and vetted by a qualified legal advisor prior to public deployment.",
+    "sec1": {
+      "title": "Information according to § 5 DDG (Digital Services Act)",
+      "company": "German Naval Logistics UG (haftungsbeschränkt)",
+      "address": "Spiekbank 50, D-45259 Essen, Germany",
+      "representedBy": "Represented by Managing Director:\nManaging Director: [Firstname Lastname, Placeholder]"
+    },
+    "sec2": {
+      "title": "Contact Information",
+      "phone": "Phone: +49 201 24 88 90 41",
+      "email": "Email: info@gn-logistics.de",
+      "web": "Website: www.gn-logistics.de"
+    },
+    "sec3": {
+      "title": "Commercial Register",
+      "text": "Registered in the commercial register.\nRegistry Court: Local Court of Essen (Amtsgericht Essen)\nRegistration Number: HRB [000000, Placeholder]"
+    },
+    "sec4": {
+      "title": "VAT Identification Number",
+      "text": "Value added tax identification number pursuant to § 27a of the German VAT Act:\n[DE 000 000 000, Placeholder]"
+    },
+    "sec5": {
+      "title": "Responsible for Content under § 18 (2) MStV",
+      "text": "[Firstname Lastname, Spiekbank 50, D-45259 Essen, Germany, Placeholder]"
+    },
+    "sec6": {
+      "title": "EU Dispute Resolution & Consumer Arbitration",
+      "text": "The European Commission provides a platform for online dispute resolution (ODR): https://ec.europa.eu/consumers/odr/.\nOur email address can be found above in the legal notice.\n\nWe are neither willing nor obliged to participate in dispute resolution proceedings before a consumer arbitration board."
+    },
+    "sec7": {
+      "title": "Liability for Content",
+      "text": "As a service provider, we are liable for our own contents on these pages in accordance with general laws pursuant to § 7 (1) DDG. However, pursuant to §§ 8 to 10 DDG, we are not obligated to monitor transmitted or stored third-party information or to investigate circumstances that indicate illegal activity. Obligations to remove or block the use of information in accordance with general laws remain unaffected."
+    },
+    "sec8": {
+      "title": "Liability for Links",
+      "text": "Our site contains links to external websites of third parties, on whose contents we have no influence. Therefore, we cannot assume any liability for these external contents. The respective provider or operator of the pages is always responsible for the contents of the linked pages."
+    },
+    "sec9": {
+      "title": "Copyright",
+      "text": "The contents and works created by the site operators on these pages are subject to German copyright law. Duplication, processing, distribution, and any form of commercialization beyond the scope of copyright law require the prior written consent of its respective author or creator."
+    }
+  },
+  "footer": {
+    "brandDescription": "Specialized procurement and global dispatch of technical marine spare parts for shipping companies, fleet managers, and shipyards.",
+    "colNav": "Navigation",
+    "colLegal": "Legal",
+    "colContact": "Essen Contact",
+    "privacyHint": "This website uses no tracking cookies and collects no persistent user profiles without explicit consent.",
+    "wantWebsite": "Want a website?",
+    "poweredBy": "Powered by Bahar World IT"
+  }
+}
